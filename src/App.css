@@ -1,0 +1,55 @@
+
+.content {
+  overflow: hidden;
+  text-align: center;
+  background-color: #23252C;
+  color: white;
+  margin: auto;
+  width: 35%;
+  border-radius: 7.5%;
+}
+.Photo {
+  position: relative;
+  font-family: 'Oxygen', sans-serif; 
+}
+.Photo > h1 {
+  font-family: 'Viga', sans-serif;
+}
+.Photo a{
+  text-decoration: none;
+  color: white;
+}
+.about{
+  text-align: justify;
+  background: #1A1B21;
+  padding: 35px;
+}
+.interests{
+  text-align: justify;
+  background: #1A1B21;
+  padding: 35px;
+}
+.footer{
+  width: 100%;
+  display: inline-block;
+  background: #1A1B21;
+}
+/* .footer>img{
+  display: inline-block;
+  padding: 10px;
+  width: 50px;
+  height: 50px;
+} */
+.fab {
+  padding: 20px;
+  font-size: 50px;
+  text-align: center;
+  display: inline-block;
+  color: white;
+}
+.fab:hover{
+  opacity: 0.7;
+}
+
+
+
